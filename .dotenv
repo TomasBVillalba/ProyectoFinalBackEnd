@@ -1,0 +1,7 @@
+CONNECTION=mongoose.connect('mongodb+srv://tomasbautistavillalba:longboard1889RC@cluster1.nhyjdqz.mongodb.net/ecommerce?retryWrites=true&w=majority');
+BCRYPTGENSALT="CoderKeyMuySecret"
+JWTKEY='coderSecret'
+PERSISTENCE='MEMORY'
+MAILPASSWORD='dzlemnxijyorsdls'
+PORT=8080
+LOGGER='PRODUCTION'
