@@ -5,7 +5,7 @@
 
 ## Instalación
 
-Instalar ECommerce-32240 con git
+Instalar ECommerce con git
 
 ```bash
   git clone https://github.com/TomasBVillalba/ProyectoFinalBackEnd.git
